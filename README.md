@@ -1,0 +1,3 @@
+This code is graciously provided by [emilybache](https://github.com/emilybache) and was designed by Jon Jagger in his cyber-dogo and [this blog post](http://jonjagger.blogspot.co.uk/2012/05/yahtzee-cyber-dojo-refactoring-in-java.html). It is licensed under the [MIT License](https://github.com/emilybache/Yatzy-Refactoring-Kata/blob/master/license.txt).
+
+This kata is designed to be an exercise in refactoring poorly written code. I go through the process of refactoring it over on [my blog](https://andey-robins.github.io/) in [this post](https://andey-robins.github.io/2020/08/13/Refactoring-Yatzy-Kata/).
